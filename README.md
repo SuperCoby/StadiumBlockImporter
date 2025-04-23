@@ -1,4 +1,3 @@
-![StadiumBlock](https://github.com/user-attachments/assets/0205135c-52d2-41fc-9d17-32ed5e779eeb)
 <h1 align="center">
   gbx_replay_reader_blender
 </h1>
