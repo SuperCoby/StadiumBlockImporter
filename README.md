@@ -1,5 +1,5 @@
 <h1 align="center">
-  gbx_replay_reader_blender
+  StadiumBlockImporter
 </h1>
 
 <p align="center">
