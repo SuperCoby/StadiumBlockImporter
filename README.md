@@ -6,7 +6,7 @@
 <a href="https://www.blender.org/" target="blank">
 <img src="https://img.shields.io/badge/Blender-4.1-2" alt="Blender 4.1" />
 </a>
-<img src="https://img.shields.io/badge/Trackmania-blender%20Input-brightgreen" alt="Trackmania"/>
+<img src="https://img.shields.io/badge/Trackmania-blender%20Import-brightgreen" alt="Trackmania"/>
 
 A Blender addon to import .cob blocks from Model/StadiumModel.cob
  - Imports blocks from a .cob file
